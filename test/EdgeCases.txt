@@ -1,0 +1,6 @@
+1. Play audio with an empty title.
+   Expected: "AudioPlayer: No title provided, cannot play."
+2. Play video with an unknown format title "Unknown_Format.xyz".
+   Expected: "VideoPlayer: Playing video - Unknown_Format.xyz"
+3. Stream a null title.
+   Expected: "StreamingPlayer: No title provided, cannot stream."

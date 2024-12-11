@@ -1,0 +1,6 @@
+1. Play an audio file with title "Song.mp3".
+   Expected: "AudioPlayer: Playing audio - Song.mp3"
+2. Play a video file with title "Movie.mp4".
+   Expected: "VideoPlayer: Playing video - Movie.mp4"
+3. Stream a live stream titled "Live Stream".
+   Expected: "StreamingPlayer: Streaming media - Live Stream"
